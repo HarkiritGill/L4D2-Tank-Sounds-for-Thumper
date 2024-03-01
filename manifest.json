@@ -1,0 +1,8 @@
+{
+    "name": "L4D2 Tank Sounds for Thumper",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/HarkiritGill/Mercurys-Company",
+    "description": "Replaces the Thumper noises to the sounds of the Tank from left 4 Dead creating a new horrifying twist to the game.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100", "Clementinise-CustomSounds-2.3.2",
+"no00ob-LCSoundTool-1.5.0"]
+}
